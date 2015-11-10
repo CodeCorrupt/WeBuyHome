@@ -110,3 +110,11 @@ html, body {
 #footer a:hover {
     color: #fff;
 }
+
+
+
+
+/* -------------------- fourm -------------------- */
+textarea {
+    resize: none;
+}
